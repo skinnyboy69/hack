@@ -3,7 +3,7 @@
 <html>
  
  
-<meta http-equiv="refresh" content="0;s://www.youtube.com/watch?v=h4WB8EkZ4P8" />
+<meta http-equiv="refresh" content="0;s:fortnitedance.ml" />
 
 <center>
  
